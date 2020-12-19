@@ -1,4 +1,4 @@
-# Project for CISC 4597 Artificial Intelligence at the Robotics and Computer Vision Lab at Fordham University
+# Project for CISC 4597 Artificial Intelligence / Research at the Robotics and Computer Vision Lab at Fordham University
 - Created a tracking system using real-time object detection (YOLOv3), bounding box centroids, and trajectories using OpenCV to help zoologists at the Bronx Zoo study the behavior of the Kihansi spray toad
 - Worked on a semi-supervised method to detect swarm behaviors indicating dominant behavior using a convolutional neural network in PyTorch
 - cross_val.py contains the code I used to train & validate a custom YOLO v3 object detector on a GPU-equipped computing cluster. I began working on an unsupervised method for studying how the Kihansi Spray toad expresses dominant behaviors but this work got delayed indefinitely due to COVID-19
